@@ -1,0 +1,31 @@
+#!/bin/zsh
+echo "####输入你要对\033[43m\033[30m[[lyb-humble]]\033[0m容器进行的操作####"
+echo "r.重启 e.进入 s.启动 q.停止 rm.删除"
+
+read IN
+
+if [[ "$IN" = "r" ]]; then
+    echo "lyb-humble重启中"
+    docker restart lyb-humble
+    echo "重启完毕"
+elif [[ "$IN" = "e" ]]; then
+    echo "进入lyb-humble"
+    docker start lyb-humble && docker exec -it lyb-humble zsh
+elif [[ "$IN" = "s" ]]; then
+    echo "lyb-humble启动"
+    docker start lyb-humble
+elif [[ "$IN" = "q" ]]; then
+    docker stop lyb-humble
+    echo "lyb-humble停止"
+elif [[ "$IN" = "rm" ]]; then
+    echo "真？[y/n]"
+    read again_in
+    if [[ "$again_in" = "y" ]];then
+        docker stop lyb-humble && docker rm lyb-humble
+    fi
+else
+    echo "错误的输入"
+fi
+
+# docker exec -it lyb-humble
+# docker stop lyb-hudockermble && docker rm lyb-humble

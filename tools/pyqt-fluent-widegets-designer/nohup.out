@@ -1,0 +1,707 @@
+libEGL warning: MESA-LOADER: failed to open radeonsi: /home/chenkeyz/.conda/envs/pyqt/lib/libstdc++.so.6: version `GLIBCXX_3.4.30' not found (required by /usr/lib/dri/radeonsi_dri.so) (search paths /usr/lib/dri, suffix _dri)
+
+libEGL warning: MESA-LOADER: failed to open swrast: /home/chenkeyz/.conda/envs/pyqt/lib/libstdc++.so.6: version `GLIBCXX_3.4.30' not found (required by /usr/lib/dri/swrast_dri.so) (search paths /usr/lib/dri, suffix _dri)
+
+qt.qpa.wayland: Failed to initialize EGL display 3001
+DISPLAY: :1
+LD_LIBRARY_PATH: ::/home/chenkeyz/.conda/envs/pyqt/lib:/home/chenkeyz/.conda/envs/pyqt/lib
+DYLD_LIBRARY_PATH is not set
+PYQTDESIGNERPATH: /home/chenkeyz/git/PyQt-Fluent-Widgets/plugins:
+PYTHONPATH: /home/chenkeyz/.conda/envs/pyqt/bin:/home/chenkeyz/.conda/envs/pyqt/lib/python38.zip:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/lib-dynload:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages::
+PATH: /home/chenkeyz/.conda/envs/pyqt/bin:/home/chenkeyz/.conda/envs/pyqt/lib/python38.zip:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/lib-dynload:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages:/home/chenkeyz/.conda/envs/pyqt/bin:/usr/bin:/opt/miniconda3/condabin:/home/chenkeyz/.autojump/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/home/chenkeyz/.dotnet/tools:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin:/home/chenkeyz/.local/bin:
+QML2_IMPORT_PATH is not set
+QT_DEBUG_PLUGINS is not set
+QT_PLUGIN_PATH: :/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages/PyQt5/Qt5/plugins:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages/pyqt5_plugins/Qt/plugins
+libEGL warning: MESA-LOADER: failed to open radeonsi: /home/chenkeyz/.conda/envs/pyqt/lib/libstdc++.so.6: version `GLIBCXX_3.4.30' not found (required by /usr/lib/dri/radeonsi_dri.so) (search paths /usr/lib/dri, suffix _dri)
+
+libEGL warning: MESA-LOADER: failed to open swrast: /home/chenkeyz/.conda/envs/pyqt/lib/libstdc++.so.6: version `GLIBCXX_3.4.30' not found (required by /usr/lib/dri/swrast_dri.so) (search paths /usr/lib/dri, suffix _dri)
+
+qt.qpa.wayland: Failed to initialize EGL display 3001
+DISPLAY: :1
+LD_LIBRARY_PATH: ::/home/chenkeyz/.conda/envs/pyqt/lib:/home/chenkeyz/.conda/envs/pyqt/lib
+DYLD_LIBRARY_PATH is not set
+PYQTDESIGNERPATH: /home/chenkeyz/git/PyQt-Fluent-Widgets/plugins:
+PYTHONPATH: /home/chenkeyz/.conda/envs/pyqt/bin:/home/chenkeyz/.conda/envs/pyqt/lib/python38.zip:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/lib-dynload:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages::
+PATH: /home/chenkeyz/.conda/envs/pyqt/bin:/home/chenkeyz/.conda/envs/pyqt/lib/python38.zip:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/lib-dynload:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages:/home/chenkeyz/.conda/envs/pyqt/bin:/usr/bin:/opt/miniconda3/condabin:/home/chenkeyz/.autojump/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/home/chenkeyz/.dotnet/tools:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin:/home/chenkeyz/.local/bin:
+QML2_IMPORT_PATH is not set
+QT_DEBUG_PLUGINS is not set
+QT_PLUGIN_PATH: :/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages/PyQt5/Qt5/plugins:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages/pyqt5_plugins/Qt/plugins
+libEGL warning: MESA-LOADER: failed to open radeonsi: /home/chenkeyz/.conda/envs/pyqt/lib/libstdc++.so.6: version `GLIBCXX_3.4.30' not found (required by /usr/lib/dri/radeonsi_dri.so) (search paths /usr/lib/dri, suffix _dri)
+
+libEGL warning: MESA-LOADER: failed to open swrast: /home/chenkeyz/.conda/envs/pyqt/lib/libstdc++.so.6: version `GLIBCXX_3.4.30' not found (required by /usr/lib/dri/swrast_dri.so) (search paths /usr/lib/dri, suffix _dri)
+
+qt.qpa.wayland: Failed to initialize EGL display 3001
+DISPLAY: :1
+LD_LIBRARY_PATH: ::/home/chenkeyz/.conda/envs/pyqt/lib:/home/chenkeyz/.conda/envs/pyqt/lib
+DYLD_LIBRARY_PATH is not set
+PYQTDESIGNERPATH: /home/chenkeyz/git/PyQt-Fluent-Widgets/plugins:
+PYTHONPATH: /home/chenkeyz/.conda/envs/pyqt/bin:/home/chenkeyz/.conda/envs/pyqt/lib/python38.zip:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/lib-dynload:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages::
+PATH: /home/chenkeyz/.conda/envs/pyqt/bin:/home/chenkeyz/.conda/envs/pyqt/lib/python38.zip:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/lib-dynload:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages:/home/chenkeyz/.conda/envs/pyqt/bin:/usr/bin:/opt/miniconda3/condabin:/home/chenkeyz/.autojump/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/home/chenkeyz/.dotnet/tools:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin:/home/chenkeyz/.local/bin:
+QML2_IMPORT_PATH is not set
+QT_DEBUG_PLUGINS is not set
+QT_PLUGIN_PATH: :/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages/PyQt5/Qt5/plugins:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages/pyqt5_plugins/Qt/plugins
+libEGL warning: MESA-LOADER: failed to open radeonsi: /home/chenkeyz/.conda/envs/pyqt/lib/libstdc++.so.6: version `GLIBCXX_3.4.30' not found (required by /usr/lib/dri/radeonsi_dri.so) (search paths /usr/lib/dri, suffix _dri)
+
+libEGL warning: MESA-LOADER: failed to open swrast: /home/chenkeyz/.conda/envs/pyqt/lib/libstdc++.so.6: version `GLIBCXX_3.4.30' not found (required by /usr/lib/dri/swrast_dri.so) (search paths /usr/lib/dri, suffix _dri)
+
+qt.qpa.wayland: Failed to initialize EGL display 3001
+QDragManager::drag in possibly invalid state
+QDragManager::drag in possibly invalid state
+QDragManager::drag in possibly invalid state
+QDragManager::drag in possibly invalid state
+DISPLAY: :1
+LD_LIBRARY_PATH: ::/home/chenkeyz/.conda/envs/pyqt/lib:/home/chenkeyz/.conda/envs/pyqt/lib
+DYLD_LIBRARY_PATH is not set
+PYQTDESIGNERPATH: /home/chenkeyz/git/PyQt-Fluent-Widgets/plugins:
+PYTHONPATH: /home/chenkeyz/.conda/envs/pyqt/bin:/home/chenkeyz/.conda/envs/pyqt/lib/python38.zip:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/lib-dynload:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages::
+PATH: /home/chenkeyz/.conda/envs/pyqt/bin:/home/chenkeyz/.conda/envs/pyqt/lib/python38.zip:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/lib-dynload:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages:/home/chenkeyz/.conda/envs/pyqt/bin:/usr/bin:/opt/miniconda3/condabin:/home/chenkeyz/.autojump/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/home/chenkeyz/.dotnet/tools:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin:/home/chenkeyz/.local/bin:
+QML2_IMPORT_PATH is not set
+QT_DEBUG_PLUGINS is not set
+QT_PLUGIN_PATH: :/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages/PyQt5/Qt5/plugins:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages/pyqt5_plugins/Qt/plugins
+libEGL warning: MESA-LOADER: failed to open radeonsi: /home/chenkeyz/.conda/envs/pyqt/lib/libstdc++.so.6: version `GLIBCXX_3.4.30' not found (required by /usr/lib/dri/radeonsi_dri.so) (search paths /usr/lib/dri, suffix _dri)
+
+libEGL warning: MESA-LOADER: failed to open swrast: /home/chenkeyz/.conda/envs/pyqt/lib/libstdc++.so.6: version `GLIBCXX_3.4.30' not found (required by /usr/lib/dri/swrast_dri.so) (search paths /usr/lib/dri, suffix _dri)
+
+qt.qpa.wayland: Failed to initialize EGL display 3001
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+This plugin does not support setting window opacity
+This plugin does not support setting window opacity
+This plugin does not support setting window opacity
+This plugin does not support setting window opacity
+This plugin does not support setting window opacity
+This plugin does not support setting window opacity
+This plugin does not support setting window opacity
+This plugin does not support setting window opacity
+This plugin does not support setting window opacity
+This plugin does not support setting window opacity
+This plugin does not support setting window opacity
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.backingstore: composeAndFlush: QOpenGLContext creation failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+DISPLAY: :1
+LD_LIBRARY_PATH: ::/home/chenkeyz/.conda/envs/pyqt/lib:/home/chenkeyz/.conda/envs/pyqt/lib
+DYLD_LIBRARY_PATH is not set
+PYQTDESIGNERPATH: /home/chenkeyz/git/PyQt-Fluent-Widgets/plugins:
+PYTHONPATH: /home/chenkeyz/.conda/envs/pyqt/bin:/home/chenkeyz/.conda/envs/pyqt/lib/python38.zip:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/lib-dynload:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages::
+PATH: /home/chenkeyz/.conda/envs/pyqt/bin:/home/chenkeyz/.conda/envs/pyqt/lib/python38.zip:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/lib-dynload:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages:/home/chenkeyz/.conda/envs/pyqt/bin:/usr/bin:/opt/miniconda3/condabin:/home/chenkeyz/.autojump/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/home/chenkeyz/.dotnet/tools:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin:/home/chenkeyz/.local/bin:
+QML2_IMPORT_PATH is not set
+QT_DEBUG_PLUGINS is not set
+QT_PLUGIN_PATH: :/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages/PyQt5/Qt5/plugins:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages/pyqt5_plugins/Qt/plugins
+libEGL warning: MESA-LOADER: failed to open radeonsi: /home/chenkeyz/.conda/envs/pyqt/lib/libstdc++.so.6: version `GLIBCXX_3.4.30' not found (required by /usr/lib/dri/radeonsi_dri.so) (search paths /usr/lib/dri, suffix _dri)
+
+libEGL warning: MESA-LOADER: failed to open swrast: /home/chenkeyz/.conda/envs/pyqt/lib/libstdc++.so.6: version `GLIBCXX_3.4.30' not found (required by /usr/lib/dri/swrast_dri.so) (search paths /usr/lib/dri, suffix _dri)
+
+qt.qpa.wayland: Failed to initialize EGL display 3001
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+QOpenGLWidget: Failed to create context
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.backingstore: composeAndFlush: QOpenGLContext creation failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+QOpenGLWidget: Failed to create context
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+QOpenGLWidget: Failed to create context
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+QOpenGLWidget: Failed to create context
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+QOpenGLWidget: Failed to create context
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+qt.qpa.backingstore: composeAndFlush: makeCurrent() failed
+DISPLAY: :1
+LD_LIBRARY_PATH: ::/home/chenkeyz/.conda/envs/pyqt/lib:/home/chenkeyz/.conda/envs/pyqt/lib
+DYLD_LIBRARY_PATH is not set
+PYQTDESIGNERPATH: /home/chenkeyz/git/PyQt-Fluent-Widgets/plugins:
+PYTHONPATH: /home/chenkeyz/.conda/envs/pyqt/bin:/home/chenkeyz/.conda/envs/pyqt/lib/python38.zip:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/lib-dynload:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages::
+PATH: /home/chenkeyz/.conda/envs/pyqt/bin:/home/chenkeyz/.conda/envs/pyqt/lib/python38.zip:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/lib-dynload:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages:/home/chenkeyz/.conda/envs/pyqt/bin:/usr/bin:/opt/miniconda3/condabin:/home/chenkeyz/.autojump/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/home/chenkeyz/.dotnet/tools:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin:/home/chenkeyz/.local/bin:
+QML2_IMPORT_PATH is not set
+QT_DEBUG_PLUGINS is not set
+QT_PLUGIN_PATH: :/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages/PyQt5/Qt5/plugins:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages/pyqt5_plugins/Qt/plugins
+libEGL warning: MESA-LOADER: failed to open radeonsi: /home/chenkeyz/.conda/envs/pyqt/lib/libstdc++.so.6: version `GLIBCXX_3.4.30' not found (required by /usr/lib/dri/radeonsi_dri.so) (search paths /usr/lib/dri, suffix _dri)
+
+libEGL warning: MESA-LOADER: failed to open swrast: /home/chenkeyz/.conda/envs/pyqt/lib/libstdc++.so.6: version `GLIBCXX_3.4.30' not found (required by /usr/lib/dri/swrast_dri.so) (search paths /usr/lib/dri, suffix _dri)
+
+qt.qpa.wayland: Failed to initialize EGL display 3001
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+DISPLAY: :1
+LD_LIBRARY_PATH: ::/home/chenkeyz/.conda/envs/pyqt/lib:/home/chenkeyz/.conda/envs/pyqt/lib
+DYLD_LIBRARY_PATH is not set
+PYQTDESIGNERPATH: /home/chenkeyz/git/PyQt-Fluent-Widgets/plugins:
+PYTHONPATH: /home/chenkeyz/.conda/envs/pyqt/bin:/home/chenkeyz/.conda/envs/pyqt/lib/python38.zip:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/lib-dynload:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages::
+PATH: /home/chenkeyz/.conda/envs/pyqt/bin:/home/chenkeyz/.conda/envs/pyqt/lib/python38.zip:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/lib-dynload:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages:/home/chenkeyz/.conda/envs/pyqt/bin:/usr/bin:/opt/miniconda3/condabin:/home/chenkeyz/.autojump/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/home/chenkeyz/.dotnet/tools:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin:/home/chenkeyz/.local/bin:
+QML2_IMPORT_PATH is not set
+QT_DEBUG_PLUGINS is not set
+QT_PLUGIN_PATH: :/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages/PyQt5/Qt5/plugins:/home/chenkeyz/.conda/envs/pyqt/lib/python3.8/site-packages/pyqt5_plugins/Qt/plugins
