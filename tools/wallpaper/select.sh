@@ -10,7 +10,8 @@ x_monres=$(( x_monres*17/100 ))
 elem_border=$(( hypr_border * 3 ))
 r_override="element{border-radius:${elem_border}px;} listview{dynamic:true;columns:5;spacing:100px;} element{padding:0px;orientation:vertical;} element-icon{size:${x_monres}px;border-radius:0px;} element-text{padding:20px;}"
 
-MONITOR_ID=$(hyprctl activewindow | grep monitor | cut -d ' ' -f 2)
+MONITOR_ID=$(hyprctl activewindow | grep monitor | cut -d ' ' -f 2 | head -1)
+[ ! "$MONITOR_ID" ] && MONITOR_ID=0
 i=0
 for MONITOR in $(hyprctl monitors | grep Monitor | cut -d ' ' -f 2)
 do
@@ -32,7 +33,7 @@ if ! [ "$pid" = "" ]; then
 
     echo "$DIFF_STR" | while read diff_f
     do
-        ffmpeg -i "$LiveWallPath/$diff_f" -ss 00:00:02 "$LiveWallPath/.cache/$diff_f.png"
+        ffmpeg -i "$LiveWallPath/$diff_f" -ss 00:00:01 "$LiveWallPath/.cache/$diff_f.png"
         mv "$LiveWallPath/.cache/$diff_f.png" "$LiveWallPath/.cache/$diff_f"
     done
 
@@ -47,8 +48,19 @@ if ! [ "$pid" = "" ]; then
         exit
     fi
 
-    echo "loadfile $LiveWallPath$RofiSel" | socat - /tmp/mpv-socket"$MONITOR_ID"
-    dunstify "切换动态壁纸" -i "$LiveWallPath/.cache/$RofiSel" -r 91190 -t 2200
+   video_list=("$LiveWallPath"*.mp4)
+   echo "loadfile $LiveWallPath$RofiSel" | socat - /tmp/mpv-socket"$MONITOR_ID"
+
+   for video in "${video_list[@]}"; do
+       if [ "$video" = "$LiveWallPath$RofiSel" ];then
+           continue
+       fi
+       # echo "$video"
+       echo "loadfile $video append-play" | socat - /tmp/mpv-socket"$MONITOR_ID"
+   done
+   # echo "loadlist $LiveWallPath" | socat - /tmp/mpv-socket"$MONITOR_ID"
+   dunstify "屏幕ID:$MONITOR_ID
+切换动态壁纸" -i "$LiveWallPath/.cache/$RofiSel" -r 91190 -t 2200
 
     exit
 fi
