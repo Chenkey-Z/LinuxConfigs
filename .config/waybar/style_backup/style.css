@@ -62,7 +62,6 @@ window#waybar.hidden {
 #memory,
 #network,
 #pulseaudio,
-#battery,
 #tray,
 #mode,
 #window {
@@ -97,11 +96,6 @@ window#waybar.hidden {
 }
 
 #pulseaudio {
-  background-color: rgba(16, 20, 24, 0.6);
-  color: #ffffff;
-}
-
-#battery {
   background-color: rgba(16, 20, 24, 0.6);
   color: #ffffff;
 }

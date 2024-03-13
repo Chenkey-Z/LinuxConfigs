@@ -5,7 +5,7 @@
     "spacing": 6,
     "modules-left": ["hyprland/workspaces", "hyprland/window"],
     "modules-center": [],
-    "modules-right": ["tray", "network", "pulseaudio", "memory", "cpu", "clock","battery"],
+    "modules-right": ["tray", "network", "pulseaudio", "memory", "cpu", "clock"],
     "hyprland/workspaces": {
         "format": "{name}",
         "on-click": "activate",
@@ -45,19 +45,6 @@
         "tooltip-format": "{ifname} {ipaddr}/{cidr} via {gwaddr}",
         "format-alt": "\uf6ff {ifname}: {ipaddr}/{cidr}"
     },
-	"battery": {
-        "interval": 1,
-        "tooltip": true,
-		"states": {
-			"warning": 30,
-			"critical": 15
-		},
-		"format": "{icon}&#8239;{capacity}%",
-		"format-charging": "&#8239;{capacity}%",
-		"format-plugged": "&#8239;{capacity}%",
-		"format-alt": "{icon} {capacity}% {time}",
-        "format-icons": ["󰂎", "󰁺", "󰁻", "󰁼", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"]
-	},
     "pulseaudio": {
         "scroll-step": 5,
         "format": "{icon} {volume}%",
