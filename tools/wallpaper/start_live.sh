@@ -26,6 +26,6 @@ else
     # 静音
     # 缩放视频适应屏幕
     dunstify "启动动态壁纸" -r 91190 -t 500
-    mpvpaper -o "input-ipc-server=/tmp/mpv-socket$MONITOR_ID   --mute=yes --panscan=1.0 --loop-playlist=inf --loop-file=inf shuffle *" ${MONITORS[MONITOR_ID+1]} "$HOME/视频/wallpapers/"
+    mpvpaper -o "input-ipc-server=/tmp/mpv-socket$MONITOR_ID   --vo=gpu --mute=yes --panscan=1.0 --loop-playlist=inf --loop-file=inf shuffle *" ${MONITORS[MONITOR_ID+1]} "$HOME/视频/wallpapers/"
     # mpvpaper -o "input-ipc-server=/tmp/mpv-socket   --mute=yes --panscan=1.0 --loop-playlist=inf --loop-file=inf shuffle *" HDMI-A-1 "$HOME/Videos/wallpapers/"
 fi

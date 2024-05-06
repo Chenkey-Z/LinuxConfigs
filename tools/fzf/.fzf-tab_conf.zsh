@@ -1,5 +1,5 @@
 #!/bin/zsh
-export PREVIEW="$HOME/tools/fzf/.fzf_preview.sh"
+# export PREVIEW="$HOME/tools/fzf/.fzf_preview.sh"
 
 # local extract="
 # # trim input
