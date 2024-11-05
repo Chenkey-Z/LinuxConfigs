@@ -1,0 +1,11 @@
+#!/bin/bash
+
+file_path="$1"
+current_path="$(pwd)"
+
+if [ ${file_path:0:1} != "/" ]; then 
+	file_path="${current_path}/${file_path}"
+fi
+
+cd /home/chenkeyz/tools/jyyslide-md/ 
+poetry run python main.py "$file_path"
